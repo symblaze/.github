@@ -1,12 +1,14 @@
-## Hi there 👋
+# Symblaze
 
-<!--
+<div align="center">
+<img alt="A fire icon" src="../symblaze.png" title="Symblaze Logo" style="width: 120px; height: 120px;"/>
+</div>
 
-**Here are some ideas to get you started:**
+**Symblaze** is a collective of Symfony enthusiasts and experts dedicated to crafting cutting-edge open-source tools and
+libraries for the PHP and Symfony ecosystems.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+**Our mission** is to ignite innovation by developing robust solutions that empower developers to build exceptional web
+applications with speed, efficiency, and precision.
+
+SymBlaze strives to be the go-to destination for high-quality Symfony resources, fostering a community of collaboration,
+creativity, and continuous improvement.
