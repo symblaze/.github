@@ -12,3 +12,6 @@ applications with speed, efficiency, and precision.
 
 SymBlaze strives to be the go-to destination for high-quality Symfony resources, fostering a community of collaboration,
 creativity, and continuous improvement.
+
+You can find more on our [Board](https://github.com/orgs/symblaze/projects/2), or join
+our [discussions](https://github.com/symblaze/.github/discussions).
