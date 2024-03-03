@@ -1,7 +1,7 @@
 # Symblaze
 
 <div align="center">
-<img alt="A fire icon" src="./../symblaze.png" title="Symblaze Logo" style="width: 120px; height: 120px;"/>
+<img alt="A fire icon" src="https://raw.githubusercontent.com/symblaze/.github/main/symblaze.png" title="Symblaze Logo" style="width: 120px; height: 120px;"/>
 </div>
 
 **Symblaze** is a collective of Symfony enthusiasts and experts dedicated to crafting cutting-edge open-source tools and
