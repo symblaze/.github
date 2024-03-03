@@ -1,6 +1,6 @@
 # Symblaze
 
-<div style="text-align: center;">
+<div align="center">
 <img alt="A fire icon" src="./symblaze.png" title="Symblaze Logo" style="width: 120px; height: 120px;"/>
 </div>
 
